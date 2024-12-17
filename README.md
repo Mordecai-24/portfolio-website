@@ -26,7 +26,7 @@ Technologies Used: HTML, CSS, JavaScript
 Collection of creative design projects I've worked on.
 Tools Used: Canva
 
-(Add more projects here as you build them!)
+
 
 📈 Learning Path
 I am currently:
