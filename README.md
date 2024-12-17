@@ -34,6 +34,6 @@ I am currently:
 📚 Learning full-stack development at Bonnie Computer Hub.
 🎯 Exploring backend programming and practicing daily.
 📬 Get In Touch
-📧 Email: mordecaimoseti@example.com
+📧 Email: mordecaimoseti8@gmail.com
 I’m open to collaborations, freelance projects, and new opportunities. Let’s connect and build something amazing!
 
